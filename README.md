@@ -72,15 +72,6 @@ $(".owl-carousel").owlCarousel();
 ### 4. For more details visit [OwlCarousel landing page](http://owlgraphic.com/owlcarousel)
 ##### Changelog available [here](http://owlgraphic.com/owlcarousel/changelog.html)
 
-Looking for [OwlCarousel2](https://github.com/OwlFonk/OwlCarousel2)?
-------------
-
-Use branch OwlCarousel2
-```ruby
-gem 'owlcarousel-rails', github: 'acrogenesis/owlcarousel-rails', branch: 'OwlCarousel2'
-```
-Use at your own risk!
-
 Contributing
 ------------
 
@@ -94,5 +85,3 @@ Contributing
 License
 ------------
 The MIT License (MIT)
-
-[1]: https://github.com/acrogenesis/owlcarousel-rails/pulls
